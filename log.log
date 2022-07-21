@@ -1,0 +1,101 @@
+2022-07-21 21:25:39 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, download.prompt_for_download=false, profile.default_content_settings.popups=0, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2022-07-21 21:25:39 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2022-07-21 21:25:39 DEBUG - Got browser start arguments from settings file: 
+[window-size=1920,1080, --no-sandbox, --disable-popup-blocking, --disable-gpu]
+2022-07-21 21:25:40 DEBUG - Set '30' timeout in seconds for loading of pages
+2022-07-21 21:25:40 DEBUG - Set async javascript execution timeout '20' in seconds
+2022-07-21 21:25:40 INFO  - Browser 'CHROME' ready...
+2022-07-21 21:25:40 INFO  - Maximizing browser window
+2022-07-21 21:25:40 INFO  - Navigate to url - 'https://www.pecodesoftware.com/qa-portal/greet.php'
+2022-07-21 21:25:41 INFO  - 1. Login test
+2022-07-21 21:25:41 INFO  - Label 'Enter Page' :: Waiting for element to be displayed
+2022-07-21 21:25:41 INFO  - Text Field 'Login Text Box' :: Sending keys 'SomeTestName'
+2022-07-21 21:25:41 INFO  - Text Field 'Login Text Box' :: Getting attribute 'VALUE'
+2022-07-21 21:25:41 INFO  - Text Field 'Login Text Box' :: Value of attribute 'VALUE': []
+2022-07-21 21:25:41 INFO  - Closing browser
+2022-07-21 21:28:57 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, download.prompt_for_download=false, profile.default_content_settings.popups=0, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2022-07-21 21:28:57 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2022-07-21 21:28:57 DEBUG - Got browser start arguments from settings file: 
+[window-size=1920,1080, --no-sandbox, --disable-popup-blocking, --disable-gpu]
+2022-07-21 21:28:58 DEBUG - Set '30' timeout in seconds for loading of pages
+2022-07-21 21:28:58 DEBUG - Set async javascript execution timeout '20' in seconds
+2022-07-21 21:28:58 INFO  - Browser 'CHROME' ready...
+2022-07-21 21:28:58 INFO  - Maximizing browser window
+2022-07-21 21:28:58 INFO  - Navigate to url - 'https://www.pecodesoftware.com/qa-portal/greet.php'
+2022-07-21 21:28:59 INFO  - 1. Login test
+2022-07-21 21:28:59 INFO  - Label 'Enter Page' :: Waiting for element to be displayed
+2022-07-21 21:28:59 INFO  - Text Field 'Login Text Box' :: Sending keys 'SomeTestName'
+2022-07-21 21:28:59 INFO  - Text Field 'Password Text Box' :: Sending keys 'SomeTestPassword'
+2022-07-21 21:28:59 INFO  - Text Field 'Login Text Box' :: Getting attribute 'VALUE'
+2022-07-21 21:28:59 INFO  - Text Field 'Login Text Box' :: Value of attribute 'VALUE': []
+2022-07-21 21:28:59 INFO  - Closing browser
+2022-07-21 21:30:35 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, download.prompt_for_download=false, profile.default_content_settings.popups=0, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2022-07-21 21:30:35 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2022-07-21 21:30:35 DEBUG - Got browser start arguments from settings file: 
+[window-size=1920,1080, --no-sandbox, --disable-popup-blocking, --disable-gpu]
+2022-07-21 21:30:37 DEBUG - Set '30' timeout in seconds for loading of pages
+2022-07-21 21:30:37 DEBUG - Set async javascript execution timeout '20' in seconds
+2022-07-21 21:30:37 INFO  - Browser 'CHROME' ready...
+2022-07-21 21:30:37 INFO  - Maximizing browser window
+2022-07-21 21:30:37 INFO  - Navigate to url - 'https://www.pecodesoftware.com/qa-portal/greet.php'
+2022-07-21 21:30:37 INFO  - 1. Login test
+2022-07-21 21:30:37 INFO  - Label 'Enter Page' :: Waiting for element to be displayed
+2022-07-21 21:30:37 INFO  - Text Field 'Login Text Box' :: Sending keys 'SomeTestName'
+2022-07-21 21:30:37 INFO  - Text Field 'Password Text Box' :: Sending keys 'SomeTestPassword'
+2022-07-21 21:30:37 INFO  - Text Field 'Login Text Box' :: Getting attribute 'value'
+2022-07-21 21:30:37 INFO  - Text Field 'Login Text Box' :: Value of attribute 'value': [SomeTestName]
+2022-07-21 21:30:37 INFO  - Text Field 'Password Text Box' :: Getting attribute 'value'
+2022-07-21 21:30:38 INFO  - Text Field 'Password Text Box' :: Value of attribute 'value': [SomeTestPassword]
+2022-07-21 21:30:38 INFO  - Button 'Login Button' :: Clicking
+2022-07-21 21:30:38 INFO  - Waiting for page to load
+2022-07-21 21:30:38 INFO  - Closing browser
+2022-07-21 21:30:54 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, download.prompt_for_download=false, profile.default_content_settings.popups=0, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2022-07-21 21:30:54 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2022-07-21 21:30:54 DEBUG - Got browser start arguments from settings file: 
+[window-size=1920,1080, --no-sandbox, --disable-popup-blocking, --disable-gpu]
+2022-07-21 21:30:55 DEBUG - Set '30' timeout in seconds for loading of pages
+2022-07-21 21:30:55 DEBUG - Set async javascript execution timeout '20' in seconds
+2022-07-21 21:30:55 INFO  - Browser 'CHROME' ready...
+2022-07-21 21:30:55 INFO  - Maximizing browser window
+2022-07-21 21:30:55 INFO  - Navigate to url - 'https://www.pecodesoftware.com/qa-portal/greet.php'
+2022-07-21 21:30:56 INFO  - 1. Login test
+2022-07-21 21:30:56 INFO  - Label 'Enter Page' :: Waiting for element to be displayed
+2022-07-21 21:30:56 INFO  - Text Field 'Login Text Box' :: Sending keys 'SomeTestName'
+2022-07-21 21:30:56 INFO  - Text Field 'Login Text Box' :: Getting attribute 'value'
+2022-07-21 21:30:56 INFO  - Text Field 'Login Text Box' :: Value of attribute 'value': [SomeTestName]
+2022-07-21 21:30:56 INFO  - Text Field 'Password Text Box' :: Sending keys 'SomeTestPassword'
+2022-07-21 21:30:56 INFO  - Text Field 'Password Text Box' :: Getting attribute 'value'
+2022-07-21 21:30:56 INFO  - Text Field 'Password Text Box' :: Value of attribute 'value': [SomeTestPassword]
+2022-07-21 21:30:56 INFO  - Button 'Login Button' :: Clicking
+2022-07-21 21:30:57 INFO  - Waiting for page to load
+2022-07-21 21:30:57 INFO  - Closing browser
+2022-07-21 21:42:20 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, download.prompt_for_download=false, profile.default_content_settings.popups=0, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2022-07-21 21:42:20 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2022-07-21 21:42:20 DEBUG - Got browser start arguments from settings file: 
+[window-size=1920,1080, --no-sandbox, --disable-popup-blocking, --disable-gpu]
+2022-07-21 21:42:21 DEBUG - Set '30' timeout in seconds for loading of pages
+2022-07-21 21:42:21 DEBUG - Set async javascript execution timeout '20' in seconds
+2022-07-21 21:42:21 INFO  - Browser 'CHROME' ready...
+2022-07-21 21:42:21 INFO  - Maximizing browser window
+2022-07-21 21:42:22 INFO  - Navigate to url - 'https://www.pecodesoftware.com/qa-portal/greet.php'
+2022-07-21 21:42:23 INFO  - 1. Login test
+2022-07-21 21:42:23 INFO  - Label 'Enter Page' :: Waiting for element to be displayed
+2022-07-21 21:42:23 INFO  - Text Field 'Login Text Box' :: Sending keys 'SomeTestName'
+2022-07-21 21:42:23 INFO  - Text Field 'Login Text Box' :: Getting attribute 'value'
+2022-07-21 21:42:23 INFO  - Text Field 'Login Text Box' :: Value of attribute 'value': [SomeTestName]
+2022-07-21 21:42:23 INFO  - Text Field 'Password Text Box' :: Sending keys 'SomeTestPassword'
+2022-07-21 21:42:23 INFO  - Text Field 'Password Text Box' :: Getting attribute 'value'
+2022-07-21 21:42:23 INFO  - Text Field 'Password Text Box' :: Value of attribute 'value': [SomeTestPassword]
+2022-07-21 21:42:23 INFO  - Button 'Login Button' :: Clicking
+2022-07-21 21:42:23 INFO  - Waiting for page to load
+2022-07-21 21:42:24 INFO  - Closing browser
